@@ -1,0 +1,119 @@
+{
+  "data": [
+    {
+      "type": "api::page.page",
+      "id": 1,
+      "attributes": {
+        "createdAt": "2023-11-04T01:38:34.526Z",
+        "updatedAt": "2023-11-04T06:47:04.281Z",
+        "publishedAt": "2023-11-04T01:41:08.020Z",
+        "pageTitle": "Home",
+        "pageSubtitle": null,
+        "pageRoute": "/",
+        "pageType": "hero",
+        "content": [
+          {
+            "id": 1,
+            "title": "Fighting Disinformation, One Fact at a Time",
+            "subTitle": null,
+            "content": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": "Learn More",
+            "buttonLinkUrl1": "/learn-more"
+          }
+        ],
+        "socialMedia": []
+      }
+    },
+    {
+      "type": "api::page.page",
+      "id": 2,
+      "attributes": {
+        "createdAt": "2023-11-04T01:40:36.878Z",
+        "updatedAt": "2023-11-04T07:02:42.990Z",
+        "publishedAt": "2023-11-04T01:41:12.525Z",
+        "pageTitle": "Who We Are",
+        "pageSubtitle": null,
+        "pageRoute": "/about-us",
+        "pageType": "list",
+        "content": [
+          {
+            "id": 2,
+            "title": "Our Mission",
+            "subTitle": null,
+            "content": "We're on a mission to transform the digital landscape, making it more reliable, trustworthy, and empowering for all. We believe in a world where information is a force for good, not manipulation, and where every individual can confidently navigate the sea of data without fear of deception.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null
+          },
+          {
+            "id": 3,
+            "title": "Our Vision",
+            "subTitle": null,
+            "content": "Our vision is simple yet powerful: we envision a world where facts matter, deception fails, and trust is rebuilt in the information age. We're committed to combating disinformation, safeguarding the integrity of information channels, and promoting informed, responsible decision-making.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null
+          }
+        ],
+        "socialMedia": []
+      }
+    },
+    {
+      "type": "api::page.page",
+      "id": 3,
+      "attributes": {
+        "createdAt": "2023-11-04T06:48:42.441Z",
+        "updatedAt": "2023-11-04T07:48:45.178Z",
+        "publishedAt": "2023-11-04T06:48:44.813Z",
+        "pageTitle": "Join",
+        "pageSubtitle": null,
+        "pageRoute": "/join",
+        "pageType": "split",
+        "content": [
+          {
+            "id": 4,
+            "title": "Join Our Mission",
+            "subTitle": null,
+            "content": "Join our mission and be part of a community that values truth, transparency, and the power of information. Your support can make a difference in creating a world where facts matter. Support our Crowdfunding Campaign and be a part of this transformative journey. Together, we can make a real impact, one fact-check at a time.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": "Learn More",
+            "buttonLinkUrl1": "/learn-more"
+          },
+          {
+            "id": 5,
+            "title": "Support Our Crowdfunding Campaign",
+            "subTitle": null,
+            "content": "Be a part of this transformative journey. Together, we can make a real impact,",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null
+          }
+        ],
+        "socialMedia": [
+          {
+            "id": 5,
+            "displayName": "twitter",
+            "url": "twitter",
+            "type": "twitter"
+          }
+        ]
+      }
+    }
+  ]
+}
