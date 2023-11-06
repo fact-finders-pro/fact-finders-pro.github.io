@@ -199,7 +199,56 @@
           }          
         ]
       }
-    },    
+    },  
+    {
+      "type": "api::page.page",
+      "attributes": {
+        "pageTitle": "About Us",
+        "pageSubtitle": null,
+        "pageRoute": "/about-us",
+        "footer": {
+          "socialMedia": [{
+            "displayName": "twitter",
+            "url": "twitter",
+            "type": "twitter"
+          },
+          {
+            "displayName": "instagram",
+            "url": "instagram",
+            "type": "instagram"
+          },
+          {
+            "displayName": "linkedIn",
+            "url": "linkedIn",
+            "type": "linkedIn"
+          }],
+          "links": [
+          ]
+        },
+        "content": [
+          {
+            "contentType": "content-only",
+            "title": "About Us",
+            "subTitle": null,
+            "content": "Fact Finders Pro is on a mission to combat disinformation and restore trust in the digital age. We believe that accurate intormation is the bedrock ot a healthy society, and we are dedicate to building innovative solutions to address the disinformation challenges of our time",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": null,
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "primary",
+            "textColor": "white",
+            "buttonColor": null,
+            "buttonTextColor": null
+          }
+        ]
+      }
+    },  
     {
       "type": "api::page.page",
       "id": 2,
