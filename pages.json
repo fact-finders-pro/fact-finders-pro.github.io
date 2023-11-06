@@ -39,6 +39,10 @@
               {
                 "displayName": "Privacy",
                 "url": "privacy"
+              },
+              {
+                "displayName": "Copyright Disclosure",
+                "url": "copyright"
               }
           ]
         },
