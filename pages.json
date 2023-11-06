@@ -4,113 +4,278 @@
       "type": "api::page.page",
       "id": 1,
       "attributes": {
-        "createdAt": "2023-11-04T01:38:34.526Z",
-        "updatedAt": "2023-11-04T06:47:04.281Z",
-        "publishedAt": "2023-11-04T01:41:08.020Z",
         "pageTitle": "Home",
         "pageSubtitle": null,
         "pageRoute": "/",
-        "pageType": "hero",
+        "footer": {
+          "socialMedia": [{
+            "displayName": "twitter",
+            "url": "twitter",
+            "type": "twitter"
+          },
+          {
+            "displayName": "instagram",
+            "url": "instagram",
+            "type": "instagram"
+          },
+          {
+            "displayName": "linkedIn",
+            "url": "linkedIn",
+            "type": "linkedIn"
+          }],
+          "links": [
+              {
+                "displayName": "Email",
+                "url": "email"
+              },
+              {
+                "displayName": "Phone",
+                "url": "phone"
+              },
+              {
+                "displayName": "Address",
+                "url": "address"
+              },
+              {
+                "displayName": "Privacy",
+                "url": "privacy"
+              }
+          ]
+        },
         "content": [
           {
-            "id": 1,
-            "title": "Fighting Disinformation, One Fact at a Time",
+            "contentType": "hero",
+            "title": "Join us in the fight against disinformation today.",
             "subTitle": null,
-            "content": null,
+            "content": "Your contribution, no matter the size, can make a significant difference in the battle against disinformation. Thank you for your support!",
             "backgroundImageUrl": null,
             "imageUrl1": null,
             "imageUrl2": null,
             "imageUrl3": null,
-            "buttonName1": "Learn More",
-            "buttonLinkUrl1": "/learn-more"
+            "buttonName1": "Donate",
+            "buttonLinkUrl1": "/donate",
+            "youTubeVideoId": "jPGqzQwLoJs",
+            "socialMedia": []
+          },
+          {
+            "contentType": "steps",
+            "socialMedia": [],
+            "listContent": [
+                {
+                    "title": "Our Product",
+                    "content": "envision a world where information is trustworthy, transparent, and empowering for all. We are committed to combating disinformation to safeguard the integrity of information channels and promote informed, responsible decision-making."
+                },
+                {
+                    "title": "Our Vision",
+                    "content": "is to be the leading platform that empowers individuals, communities, and organizations with the tools and knowledge needed to discern truth from falsehood. We believe in creating a more reliable and connected digital landscape where every user can confidently navigate the sea of intormation without being misled or manipulated"
+                },
+                {
+                    "title": "Our Solution",
+                    "content": "will provide cutting-edge technology for real-time fact-checking, content verification, a collaborative approach to identitying and countering disInformation and Torensic analysis to expose the sources of disinformation. We aim to foster critical thinking, media literacy, and an ecosystem of trust."
+                }
+            ]
+          },
+          {
+            "contentType": "cards",
+            "socialMedia": [],
+            "cardContents": [
+                {
+                    "title": "Join Our Team",
+                    "content": "Be at the forefront of a critical global issue.",
+                    "buttonName1": "Join Our Team",
+                    "buttonLinkUrl1": "/join-team"
+                },
+                {
+                    "title": "Join Our Waiting List",
+                    "content": "Be the first to access our app when it's launched.",
+                    "buttonName1": "Join Our Waitlist",
+            "buttonLinkUrl1": "/join-waitlist"
+                }
+            ]
           }
-        ],
-        "socialMedia": []
+        ]
       }
     },
     {
       "type": "api::page.page",
+      "id": 1,
+      "attributes": {
+        "pageTitle": "Product Vision",
+        "pageSubtitle": null,
+        "pageRoute": "/product-vision",
+        "footer": {
+          "socialMedia": [{
+            "displayName": "twitter",
+            "url": "twitter",
+            "type": "twitter"
+          },
+          {
+            "displayName": "instagram",
+            "url": "instagram",
+            "type": "instagram"
+          },
+          {
+            "displayName": "linkedIn",
+            "url": "linkedIn",
+            "type": "linkedIn"
+          }],
+          "links": [
+          ]
+        },
+        "content": [
+          {
+            "contentType": "content-only",
+            "title": "Product Vision",
+            "subTitle": null,
+            "content": "We envisions a world where information is **trustworthy, transparent**, and **empowering** for all.",
+            "subContent1": "Our **solution** will provide **cutting-edge technology for real-time fact-checking, content verification**, a collaborative approach to identifying and countering disinformation and forensic analysis to expose the sources of disinformation",
+            "backgroundImageUrl": null,
+            "imageUrl1": "product-vision.png",
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": "Join Our Waitlist",
+            "buttonLinkUrl1": "/join",
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "By **<span style='color:#088395'>challenging</span>** those who produce **<span style='color:#088395'>fake news</span>** to manipulate public opinion, we aspire to safeguard the truth, protect democracy, and create a world where facts matter and deception fails.",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": null,
+            "socialMedia": [],
+            "showTitle": false,
+            "bgColor": "primary",
+            "textColor": "white",
+            "buttonColor": null,
+            "buttonTextColor": null
+          },
+          {
+            "contentType": "cards",
+            "title": "Key Features",
+            "content": "By addressing disinformation at its core, we seek to rebuild trust in the information age, strengthen democratic institutions, and create a safer, more enlightened digital world for generations to come. Our success will be measured by our contribution to informed, free, and just societies worldwide.",
+            "socialMedia": [],
+            "cardWidth": 20,
+            "cardHeight": 30,
+            "cardContents": [
+                {
+                    "title": null,
+                    "content": "Real-time disinformation detection and tracking",
+                    "imageUrl1": "kf-1.png"
+                },
+                {
+                    "title": null,
+                    "content": "Transparent Algorithm Explanations",
+                    "imageUrl1": "kf-2.png"
+                },
+                {
+                  "title": null,
+                  "content": "User-friendly platforms for fact-checking and source vertication.",
+                  "imageUrl1": "kf-3.png"
+              },
+                {
+                  "title": null,
+                  "content": "Al-driven content or misleading information",
+                  "imageUrl1": "kf-4.png"
+                }
+            ]
+          }          
+        ]
+      }
+    },    
+    {
+      "type": "api::page.page",
       "id": 2,
       "attributes": {
-        "createdAt": "2023-11-04T01:40:36.878Z",
-        "updatedAt": "2023-11-04T07:02:42.990Z",
-        "publishedAt": "2023-11-04T01:41:12.525Z",
         "pageTitle": "Who We Are",
         "pageSubtitle": null,
         "pageRoute": "/about-us",
-        "pageType": "list",
         "content": [
           {
-            "id": 2,
-            "title": "Our Mission",
-            "subTitle": null,
-            "content": "We're on a mission to transform the digital landscape, making it more reliable, trustworthy, and empowering for all. We believe in a world where information is a force for good, not manipulation, and where every individual can confidently navigate the sea of data without fear of deception.",
-            "backgroundImageUrl": null,
-            "imageUrl1": null,
-            "imageUrl2": null,
-            "imageUrl3": null,
-            "buttonName1": null,
-            "buttonLinkUrl1": null
-          },
-          {
-            "id": 3,
-            "title": "Our Vision",
-            "subTitle": null,
-            "content": "Our vision is simple yet powerful: we envision a world where facts matter, deception fails, and trust is rebuilt in the information age. We're committed to combating disinformation, safeguarding the integrity of information channels, and promoting informed, responsible decision-making.",
-            "backgroundImageUrl": null,
-            "imageUrl1": null,
-            "imageUrl2": null,
-            "imageUrl3": null,
-            "buttonName1": null,
-            "buttonLinkUrl1": null
+            "contentType": "list",
+            "socialMedia": [],
+            "listContent": [
+              {
+                "title": "Our Mission",
+                "subTitle": null,
+                "content": "We're on a mission to transform the digital landscape, making it more reliable, trustworthy, and empowering for all. We believe in a world where information is a force for good, not manipulation, and where every individual can confidently navigate the sea of data without fear of deception.",
+                "backgroundImageUrl": null,
+                "imageUrl1": null,
+                "imageUrl2": null,
+                "imageUrl3": null,
+                "buttonName1": null,
+                "buttonLinkUrl1": null
+              },
+              {
+                "title": "Our Vision",
+                "subTitle": null,
+                "content": "Our vision is simple yet powerful: we envision a world where facts matter, deception fails, and trust is rebuilt in the information age. We're committed to combating disinformation, safeguarding the integrity of information channels, and promoting informed, responsible decision-making.",
+                "backgroundImageUrl": null,
+                "imageUrl1": null,
+                "imageUrl2": null,
+                "imageUrl3": null,
+                "buttonName1": null,
+                "buttonLinkUrl1": null
+              }
+            ]
           }
-        ],
-        "socialMedia": []
+        ]
       }
     },
     {
       "type": "api::page.page",
       "id": 3,
       "attributes": {
-        "createdAt": "2023-11-04T06:48:42.441Z",
-        "updatedAt": "2023-11-04T07:48:45.178Z",
-        "publishedAt": "2023-11-04T06:48:44.813Z",
         "pageTitle": "Join",
         "pageSubtitle": null,
         "pageRoute": "/join",
-        "pageType": "split",
         "content": [
           {
-            "id": 4,
-            "title": "Join Our Mission",
-            "subTitle": null,
-            "content": "Join our mission and be part of a community that values truth, transparency, and the power of information. Your support can make a difference in creating a world where facts matter. Support our Crowdfunding Campaign and be a part of this transformative journey. Together, we can make a real impact, one fact-check at a time.",
-            "backgroundImageUrl": null,
-            "imageUrl1": null,
-            "imageUrl2": null,
-            "imageUrl3": null,
-            "buttonName1": "Learn More",
-            "buttonLinkUrl1": "/learn-more"
-          },
-          {
-            "id": 5,
-            "title": "Support Our Crowdfunding Campaign",
-            "subTitle": null,
-            "content": "Be a part of this transformative journey. Together, we can make a real impact,",
-            "backgroundImageUrl": null,
-            "imageUrl1": null,
-            "imageUrl2": null,
-            "imageUrl3": null,
-            "buttonName1": null,
-            "buttonLinkUrl1": null
-          }
-        ],
-        "socialMedia": [
-          {
-            "id": 5,
-            "displayName": "twitter",
-            "url": "twitter",
-            "type": "twitter"
+            "contentType": "split",
+            "socialMedia": [
+              {
+                "displayName": "twitter",
+                "url": "twitter",
+                "type": "twitter"
+              }
+            ],
+            "splitContents": [
+              {
+                "title": "Join Our Mission",
+                "subTitle": null,
+                "content": "Join our mission and be part of a community that values truth, transparency, and the power of information. Your support can make a difference in creating a world where facts matter. Support our Crowdfunding Campaign and be a part of this transformative journey. Together, we can make a real impact, one fact-check at a time.",
+                "backgroundImageUrl": null,
+                "imageUrl1": null,
+                "imageUrl2": null,
+                "imageUrl3": null,
+                "buttonName1": "Learn More",
+                "buttonLinkUrl1": "/learn-more"
+              },
+              {
+                "title": "Support Our Crowdfunding Campaign",
+                "subTitle": null,
+                "content": "Be a part of this transformative journey. Together, we can make a real impact,",
+                "backgroundImageUrl": null,
+                "imageUrl1": null,
+                "imageUrl2": null,
+                "imageUrl3": null,
+                "buttonName1": null,
+                "buttonLinkUrl1": null
+              }
+            ]
           }
         ]
       }
