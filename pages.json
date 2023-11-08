@@ -8,42 +8,40 @@
         "pageSubtitle": null,
         "pageRoute": "/",
         "footer": {
-          "socialMedia": [{
-            "displayName": "twitter",
-            "url": "twitter",
-            "type": "twitter"
-          },
-          {
-            "displayName": "instagram",
-            "url": "instagram",
-            "type": "instagram"
-          },
-          {
-            "displayName": "linkedIn",
-            "url": "linkedIn",
-            "type": "linkedIn"
-          }],
+          "socialMedia": [
+            {
+              "displayName": "twitter",
+              "url": "twitter",
+              "type": "twitter"
+            },
+            {
+              "displayName": "instagram",
+              "url": "instagram",
+              "type": "instagram"
+            },
+            {
+              "displayName": "linkedIn",
+              "url": "linkedIn",
+              "type": "linkedIn"
+            }
+          ],
           "links": [
-              {
-                "displayName": "Email",
-                "url": "email"
-              },
-              {
-                "displayName": "Phone",
-                "url": "phone"
-              },
-              {
-                "displayName": "Address",
-                "url": "address"
-              },
-              {
-                "displayName": "Privacy",
-                "url": "privacy"
-              },
-              {
-                "displayName": "Copyright Disclosure",
-                "url": "copyright"
-              }
+            {
+              "displayName": "Email",
+              "url": "email"
+            },
+            {
+              "displayName": "Phone",
+              "url": "phone"
+            },
+            {
+              "displayName": "Address",
+              "url": "address"
+            },
+            {
+              "displayName": "Privacy",
+              "url": "privacy"
+            }
           ]
         },
         "content": [
@@ -58,43 +56,43 @@
             "imageUrl3": null,
             "buttonName1": "Donate",
             "buttonLinkUrl1": "/donate",
-            "youTubeVideoId": "jPGqzQwLoJs",
+            "youTubeVideoId": "e4Esw3cAuxg",
             "socialMedia": []
           },
           {
             "contentType": "steps",
             "socialMedia": [],
             "listContent": [
-                {
-                    "title": "Our Product",
-                    "content": "envision a world where information is trustworthy, transparent, and empowering for all. We are committed to combating disinformation to safeguard the integrity of information channels and promote informed, responsible decision-making."
-                },
-                {
-                    "title": "Our Vision",
-                    "content": "is to be the leading platform that empowers individuals, communities, and organizations with the tools and knowledge needed to discern truth from falsehood. We believe in creating a more reliable and connected digital landscape where every user can confidently navigate the sea of intormation without being misled or manipulated"
-                },
-                {
-                    "title": "Our Solution",
-                    "content": "will provide cutting-edge technology for real-time fact-checking, content verification, a collaborative approach to identitying and countering disInformation and Torensic analysis to expose the sources of disinformation. We aim to foster critical thinking, media literacy, and an ecosystem of trust."
-                }
+              {
+                "title": "Our Product",
+                "content": "envision a world where information is trustworthy, transparent, and empowering for all. We are committed to combating disinformation to safeguard the integrity of information channels and promote informed, responsible decision-making."
+              },
+              {
+                "title": "Our Vision",
+                "content": "is to be the leading platform that empowers individuals, communities, and organizations with the tools and knowledge needed to discern truth from falsehood. We believe in creating a more reliable and connected digital landscape where every user can confidently navigate the sea of intormation without being misled or manipulated"
+              },
+              {
+                "title": "Our Solution",
+                "content": "will provide cutting-edge technology for real-time fact-checking, content verification, a collaborative approach to identitying and countering disInformation and Torensic analysis to expose the sources of disinformation. We aim to foster critical thinking, media literacy, and an ecosystem of trust."
+              }
             ]
           },
           {
             "contentType": "cards",
             "socialMedia": [],
             "cardContents": [
-                {
-                    "title": "Join Our Team",
-                    "content": "Be at the forefront of a critical global issue.",
-                    "buttonName1": "Join Our Team",
-                    "buttonLinkUrl1": "/join-team"
-                },
-                {
-                    "title": "Join Our Waiting List",
-                    "content": "Be the first to access our app when it's launched.",
-                    "buttonName1": "Join Our Waitlist",
-            "buttonLinkUrl1": "/join-waitlist"
-                }
+              {
+                "title": "Join Our Team",
+                "content": "Be at the forefront of a critical global issue.",
+                "buttonName1": "Join Our Team",
+                "buttonLinkUrl1": "/join-team"
+              },
+              {
+                "title": "Join Our Waiting List",
+                "content": "Be the first to access our app when it's launched.",
+                "buttonName1": "Join Our Waitlist",
+                "buttonLinkUrl1": "/join-waitlist"
+              }
             ]
           }
         ]
@@ -108,23 +106,24 @@
         "pageSubtitle": null,
         "pageRoute": "/product-vision",
         "footer": {
-          "socialMedia": [{
-            "displayName": "twitter",
-            "url": "twitter",
-            "type": "twitter"
-          },
-          {
-            "displayName": "instagram",
-            "url": "instagram",
-            "type": "instagram"
-          },
-          {
-            "displayName": "linkedIn",
-            "url": "linkedIn",
-            "type": "linkedIn"
-          }],
-          "links": [
-          ]
+          "socialMedia": [
+            {
+              "displayName": "twitter",
+              "url": "twitter",
+              "type": "twitter"
+            },
+            {
+              "displayName": "instagram",
+              "url": "instagram",
+              "type": "instagram"
+            },
+            {
+              "displayName": "linkedIn",
+              "url": "linkedIn",
+              "type": "linkedIn"
+            }
+          ],
+          "links": []
         },
         "content": [
           {
@@ -172,65 +171,93 @@
             "title": "Key Features",
             "content": "By addressing disinformation at its core, we seek to rebuild trust in the information age, strengthen democratic institutions, and create a safer, more enlightened digital world for generations to come. Our success will be measured by our contribution to informed, free, and just societies worldwide.",
             "socialMedia": [],
+            "bgColor": "neutral",
             "cardWidth": 20,
             "cardHeight": 30,
             "cardContents": [
-                {
-                    "title": null,
-                    "content": "Real-time disinformation detection and tracking",
-                    "imageUrl1": "kf-1.png"
-                },
-                {
-                    "title": null,
-                    "content": "Transparent Algorithm Explanations",
-                    "imageUrl1": "kf-2.png"
-                },
-                {
-                  "title": null,
-                  "content": "User-friendly platforms for fact-checking and source vertication.",
-                  "imageUrl1": "kf-3.png"
+              {
+                "title": null,
+                "content": "Real-time disinformation detection and tracking",
+                "imageUrl1": "kf-1.png"
               },
-                {
-                  "title": null,
-                  "content": "Al-driven content or misleading information",
-                  "imageUrl1": "kf-4.png"
-                }
+              {
+                "title": null,
+                "content": "Transparent Algorithm Explanations",
+                "imageUrl1": "kf-2.png"
+              },
+              {
+                "title": null,
+                "content": "User-friendly platforms for fact-checking and source vertication",
+                "imageUrl1": "kf-3.png"
+              },
+              {
+                "title": null,
+                "content": "Al-driven content or misleading information",
+                "imageUrl1": "kf-4.png"
+              },
+              {
+                "title": null,
+                "content": "By using machine learning and AI algorithms continue to adapt to new disinformation tactics and improve your system's accuracy over time",
+                "imageUrl1": "kf-5.png"
+              },
+              {
+                "title": null,
+                "content": "Collaboration with reputable news sources and experts to validate information",
+                "imageUrl1": "kf-6.png"
+              },
+              {
+                "title": null,
+                "content": "Browser Extensions and Mobile Apps.",
+                "imageUrl1": "kf-7.png"
+              },
+              {
+                "title": null,
+                "content": "APIs for Integration",
+                "imageUrl1": "kf-8.png"
+              },
+              {
+                "title": null,
+                "content": "Privacy and Data Protection",
+                "imageUrl1": "kf-9.png"
+              }
             ]
-          }          
+          }
         ]
       }
-    },  
+    },
     {
       "type": "api::page.page",
+      "id": 2,
       "attributes": {
         "pageTitle": "About Us",
         "pageSubtitle": null,
         "pageRoute": "/about-us",
         "footer": {
-          "socialMedia": [{
-            "displayName": "twitter",
-            "url": "twitter",
-            "type": "twitter"
-          },
-          {
-            "displayName": "instagram",
-            "url": "instagram",
-            "type": "instagram"
-          },
-          {
-            "displayName": "linkedIn",
-            "url": "linkedIn",
-            "type": "linkedIn"
-          }],
-          "links": [
-          ]
+          "socialMedia": [
+            {
+              "displayName": "twitter",
+              "url": "twitter",
+              "type": "twitter"
+            },
+            {
+              "displayName": "instagram",
+              "url": "instagram",
+              "type": "instagram"
+            },
+            {
+              "displayName": "linkedIn",
+              "url": "linkedIn",
+              "type": "linkedIn"
+            }
+          ],
+          "links": []
         },
         "content": [
           {
             "contentType": "content-only",
             "title": "About Us",
             "subTitle": null,
-            "content": "Fact Finders Pro is on a mission to combat disinformation and restore trust in the digital age. We believe that accurate intormation is the bedrock ot a healthy society, and we are dedicate to building innovative solutions to address the disinformation challenges of our time",
+            "content": "Fact Finders Pro is on a mission to combat disinformation and restore trust in the digital age. We believe that accurate information is the bedrock of a healthy society, and we are dedicated to building innovative solutions to address the disinformation challenges of our time.",
             "subContent1": null,
             "backgroundImageUrl": null,
             "imageUrl1": null,
@@ -241,94 +268,107 @@
             "youTubeVideoId": null,
             "socialMedia": [],
             "showTitle": true,
+            "textCenter": true,
             "bgColor": "primary",
             "textColor": "white",
             "buttonColor": null,
             "buttonTextColor": null
-          }
-        ]
-      }
-    },  
-    {
-      "type": "api::page.page",
-      "id": 2,
-      "attributes": {
-        "pageTitle": "Who We Are",
-        "pageSubtitle": null,
-        "pageRoute": "/about-us",
-        "content": [
+          },
           {
-            "contentType": "list",
+            "contentType": "join-our-team",
+            "title": "Join Our Team",
+            "subTitle": null,
+            "content": "We are looking for passionate individuals who share our commitment to fighting disinformation and want to be part of a dynamic team making a difference. Join us in this crucial mission to restore trust in information and shape the future of our digital landscape.",
+            "imageUrl1": "JoinTeam.png",
+            "buttonName1": "Join Our Team",
+            "buttonLinkUrl1": "/join",
+            "youTubeVideoId": "",
             "socialMedia": [],
-            "listContent": [
-              {
-                "title": "Our Mission",
-                "subTitle": null,
-                "content": "We're on a mission to transform the digital landscape, making it more reliable, trustworthy, and empowering for all. We believe in a world where information is a force for good, not manipulation, and where every individual can confidently navigate the sea of data without fear of deception.",
-                "backgroundImageUrl": null,
-                "imageUrl1": null,
-                "imageUrl2": null,
-                "imageUrl3": null,
-                "buttonName1": null,
-                "buttonLinkUrl1": null
-              },
-              {
-                "title": "Our Vision",
-                "subTitle": null,
-                "content": "Our vision is simple yet powerful: we envision a world where facts matter, deception fails, and trust is rebuilt in the information age. We're committed to combating disinformation, safeguarding the integrity of information channels, and promoting informed, responsible decision-making.",
-                "backgroundImageUrl": null,
-                "imageUrl1": null,
-                "imageUrl2": null,
-                "imageUrl3": null,
-                "buttonName1": null,
-                "buttonLinkUrl1": null
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "type": "api::page.page",
-      "id": 3,
-      "attributes": {
-        "pageTitle": "Join",
-        "pageSubtitle": null,
-        "pageRoute": "/join",
-        "content": [
+            "showTitle": true,
+            "bgColor": "white",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
           {
-            "contentType": "split",
-            "socialMedia": [
+            "contentType": "why-join",
+            "title": "Why Join Our Startup",
+            "content": null,
+            "bgColor": "neutral",
+            "socialMedia": [],
+            "cardContents": [
               {
-                "displayName": "twitter",
-                "url": "twitter",
-                "type": "twitter"
-              }
-            ],
-            "splitContents": [
-              {
-                "title": "Join Our Mission",
-                "subTitle": null,
-                "content": "Join our mission and be part of a community that values truth, transparency, and the power of information. Your support can make a difference in creating a world where facts matter. Support our Crowdfunding Campaign and be a part of this transformative journey. Together, we can make a real impact, one fact-check at a time.",
-                "backgroundImageUrl": null,
-                "imageUrl1": null,
-                "imageUrl2": null,
-                "imageUrl3": null,
-                "buttonName1": "Learn More",
-                "buttonLinkUrl1": "/learn-more"
+                "title": null,
+                "content": "Be at the forefront of a critical global issue.",
+                "imageUrl1": "wj-1.png"
               },
               {
-                "title": "Support Our Crowdfunding Campaign",
-                "subTitle": null,
-                "content": "Be a part of this transformative journey. Together, we can make a real impact,",
-                "backgroundImageUrl": null,
-                "imageUrl1": null,
-                "imageUrl2": null,
-                "imageUrl3": null,
-                "buttonName1": null,
-                "buttonLinkUrl1": null
+                "title": null,
+                "content": "Work with a talented, dedicated team of experts in technology and disinformation.",
+                "imageUrl1": "wj-2.png"
+              },
+              {
+                "title": null,
+                "content": "Drive meaningful change and make a positive impact on society.",
+                "imageUrl1": "wj-3.png"
+              },
+              {
+                "title": null,
+                "content": "Contribute to innovative solutions that challenge the status quo.",
+                "imageUrl1": "wj-4.png"
               }
             ]
+          },
+          {
+            "contentType": "team-member",
+            "title": "Leadership Team",
+            "subTitle": null,
+            "name": "Mahenoor Yusuf (Founder & CEO)",
+            "intro": "A visionary leader, tech entrepreneur, intellectual entrepenuer, Harvard Alum and champion for Social Impact.",
+            "content": "Mahenoor Yusuf, Founder and CEO, is an accomplished business leader and visionary tech and intellectual entrepreneur deeply committed to creating a meaningful impact on societies. With an education from Harvard Business School and a career spanning over a decade at industry leaders like Dell, she swiftly ascended the ranks in the tech world before dedicating herself to entrepreneurship and the mission of pioneering innovative technology solutions for addressing pressing social issues. Mahenoor's passion is to drive positive change in communities and society. She thrives on innovation and creating a leading platform that empowers individuals, communities, and organizations with the tools needed to discern facts from disinformation. She believes in creating a more reliable, transparent, and connected digital landscape where every user can confidently navigate the sea of information without being misled or manipulated. Mahenoor’s inspiring leadership, extensive executive background and ability to set clear directions empower both her and her teams to fuel a positive impact on our world. Under her visionary leadership, Fact Finders Pro is on the path to advancing AI-driven innovation, fostering a society where truth and trustworthiness of information are paramount.",
+            "imageUrl1": "Mahenoor_Headshot.jpg",
+            "showTitle": true,
+            "bgColor": "white",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white",
+            "cardContents": [
+              {
+                "title": "Chief Technology Officer (CTO)"
+              },
+              {
+                "title": "Chief Operating Officer (COO)"
+              },
+              {
+                "title": "Chief Product Officer (CPO)"
+              },
+              {
+                "title": "Chief Financial Officer (CFO)"
+              },
+              {
+                "title": "Chief Marketing Officer (CMO)"
+              },
+              {
+                "title": "Chief Communication Officer (CCO)"
+              },
+              {
+                "title": "Chief Investor Relations Officer (CIRO)"
+              }
+            ]
+          },
+          {
+            "contentType": "team-member",
+            "title": "Advisory Board Member",
+            "subTitle": null,
+            "name": "Niko Klansek",
+            "intro": "Seasoned Investor & Mentor, Serial Entrepreneur, and Sports Enthusiast with a track record in successful startup exits and a passion for fostering global entrepreneurship.",
+            "content": "Niko Klansek is a seasoned investor, mentor, and serial entrepreneur with a rich tradition of entrepreneurship. From a young age, he cultivated a passion for business innovation, nurtured by a family heritage of entrepreneurial endeavors. Over the years, Niko has co-founded several successful startups, generating impressive results, including two lucrative exits. His keen eye for business opportunities has also led him to invest in a diverse array of startups and Decentralized Autonomous Organizations (DAOs), amplifying their success stories. <br/><br/>Before stepping into the entrepreneurial world, Niko was an accomplished basketball player, where he honed his competitive spirit by winning multiple national championships in Slovenia. He further applied his leadership skills as the president of a professional basketball club. <br/><br/> At present, Niko is a founding member of Kenmare DAO, an investment fund specializing in early-stage Web3 and blockchain projects. His entrepreneurial spirit extends into the formation of the BizMe organization, a global platform aimed at promoting entrepreneurship and empowering budding entrepreneurs across borders. <br/><br/>Beyond his professional pursuits, Niko is fueled by a love for sports, travel, art, and horticulture, particularly growing tropical plants from pit to fruit. His journey has taken him across continents; living, studying, and working in various cultural environments of the EU, USA, and Asia, each enriching his global perspective and influence.",
+            "imageUrl1": "NIKO_PHOTO.jpg",
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
           }
         ]
       }
