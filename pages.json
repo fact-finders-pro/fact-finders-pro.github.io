@@ -55,7 +55,7 @@
             "imageUrl2": null,
             "imageUrl3": null,
             "buttonName1": "Donate",
-            "buttonLinkUrl1": "/donate",
+            "buttonLinkUrl1": "https://www.gofundme.com/f/join-us-in-the-fight-against-disinformation/widget/small",
             "youTubeVideoId": "e4Esw3cAuxg",
             "socialMedia": []
           },
@@ -85,13 +85,13 @@
                 "title": "Join Our Team",
                 "content": "Be at the forefront of a critical global issue.",
                 "buttonName1": "Join Our Team",
-                "buttonLinkUrl1": "/join-team"
+                "buttonLinkUrl1": "https://forms.gle/QaqMFwHrqKZYw3jC6"
               },
               {
                 "title": "Join Our Waiting List",
                 "content": "Be the first to access our app when it's launched.",
                 "buttonName1": "Join Our Waitlist",
-                "buttonLinkUrl1": "/join-waitlist"
+                "buttonLinkUrl1": "https://forms.gle/94cpcwhDY1ED2ND89"
               }
             ]
           }
@@ -325,13 +325,14 @@
             "subTitle": null,
             "name": "Mahenoor Yusuf (Founder & CEO)",
             "intro": "A visionary leader, tech entrepreneur, intellectual entrepenuer, Harvard Alum and champion for Social Impact.",
-            "content": "Mahenoor Yusuf, Founder and CEO, is an accomplished business leader and visionary tech and intellectual entrepreneur deeply committed to creating a meaningful impact on societies. With an education from Harvard Business School and a career spanning over a decade at industry leaders like Dell, she swiftly ascended the ranks in the tech world before dedicating herself to entrepreneurship and the mission of pioneering innovative technology solutions for addressing pressing social issues. Mahenoor's passion is to drive positive change in communities and society. She thrives on innovation and creating a leading platform that empowers individuals, communities, and organizations with the tools needed to discern facts from disinformation. She believes in creating a more reliable, transparent, and connected digital landscape where every user can confidently navigate the sea of information without being misled or manipulated. Mahenoor’s inspiring leadership, extensive executive background and ability to set clear directions empower both her and her teams to fuel a positive impact on our world. Under her visionary leadership, Fact Finders Pro is on the path to advancing AI-driven innovation, fostering a society where truth and trustworthiness of information are paramount.",
+            "content": "Mahenoor Yusuf, Founder and CEO, is an accomplished business leader and visionary tech and intellectual entrepreneur deeply committed to creating a meaningful impact on societies. With an education from Harvard Business School and a career spanning over a decade at industry leaders like Dell, she swiftly ascended the ranks in the tech world before dedicating herself to entrepreneurship and the mission of pioneering innovative technology solutions for addressing pressing social issues. <br/><br/> Mahenoor's passion is to drive positive change in communities and society. She thrives on innovation and creating a leading platform that empowers individuals, communities, and organizations with the tools needed to discern facts from disinformation. She believes in creating a more reliable, transparent, and connected digital landscape where every user can confidently navigate the sea of information without being misled or manipulated.  <br/><br/> Mahenoor’s inspiring leadership, extensive executive background and ability to set clear directions empower both her and her teams to fuel a positive impact on our world. Under her visionary leadership, Fact Finders Pro is on the path to advancing AI-driven innovation, fostering a society where truth and trustworthiness of information are paramount.",
             "imageUrl1": "Mahenoor_Headshot.jpg",
             "showTitle": true,
             "bgColor": "white",
             "textColor": "primary",
             "buttonColor": "secondary",
             "buttonTextColor": "white",
+            "linkedIn": "https://www.linkedin.com/in/mahenoor/",
             "cardContents": [
               {
                 "title": "Chief Technology Officer (CTO)"
@@ -347,9 +348,6 @@
               },
               {
                 "title": "Chief Marketing Officer (CMO)"
-              },
-              {
-                "title": "Chief Communication Officer (CCO)"
               },
               {
                 "title": "Chief Investor Relations Officer (CIRO)"
@@ -368,7 +366,53 @@
             "bgColor": "neutral",
             "textColor": "primary",
             "buttonColor": "secondary",
-            "buttonTextColor": "white"
+            "buttonTextColor": "white",
+            "linkedIn": "https://www.linkedin.com/in/nklansek/"
+          }
+        ]
+      }
+    },
+    {
+      "type": "api::page.page",
+      "id": 3,
+      "attributes": {
+        "pageTitle": "Join",
+        "pageSubtitle": null,
+        "pageRoute": "/join",
+        "content": [
+          {
+            "contentType": "split",
+            "socialMedia": [
+              {
+                "displayName": "twitter",
+                "url": "twitter",
+                "type": "twitter"
+              }
+            ],
+            "splitContents": [
+              {
+                "title": "Join Our Mission",
+                "subTitle": null,
+                "content": "Join our mission and be part of a community that values truth, transparency, and the power of information. Your support can make a difference in creating a world where facts matter. Support our Crowdfunding Campaign and be a part of this transformative journey. Together, we can make a real impact, one fact-check at a time.",
+                "backgroundImageUrl": null,
+                "imageUrl1": null,
+                "imageUrl2": null,
+                "imageUrl3": null,
+                "buttonName1": "Learn More",
+                "buttonLinkUrl1": "/learn-more"
+              },
+              {
+                "title": "Support Our Crowdfunding Campaign",
+                "subTitle": null,
+                "content": "Be a part of this transformative journey. Together, we can make a real impact,",
+                "backgroundImageUrl": null,
+                "imageUrl1": null,
+                "imageUrl2": null,
+                "imageUrl3": null,
+                "buttonName1": null,
+                "buttonLinkUrl1": null
+              }
+            ]
           }
         ]
       }
