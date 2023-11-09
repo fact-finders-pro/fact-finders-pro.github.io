@@ -11,36 +11,28 @@
           "socialMedia": [
             {
               "displayName": "twitter",
-              "url": "twitter",
+              "url": "https://twitter.com/factfinderspro",
               "type": "twitter"
             },
             {
               "displayName": "instagram",
-              "url": "instagram",
+              "url": "https://www.instagram.com/factfinderspro/",
               "type": "instagram"
             },
             {
               "displayName": "linkedIn",
-              "url": "linkedIn",
+              "url": "https://www.linkedin.com/company/fact-finders-pro",
               "type": "linkedIn"
             }
           ],
           "links": [
             {
               "displayName": "Email",
-              "url": "email"
-            },
-            {
-              "displayName": "Phone",
-              "url": "phone"
-            },
-            {
-              "displayName": "Address",
-              "url": "address"
+              "url": "mailto:FactFindersPro@gmail.com"
             },
             {
               "displayName": "Privacy",
-              "url": "privacy"
+              "url": "/privacy-policy"
             }
           ]
         },
@@ -109,21 +101,30 @@
           "socialMedia": [
             {
               "displayName": "twitter",
-              "url": "twitter",
+              "url": "https://twitter.com/factfinderspro",
               "type": "twitter"
             },
             {
               "displayName": "instagram",
-              "url": "instagram",
+              "url": "https://www.instagram.com/factfinderspro/",
               "type": "instagram"
             },
             {
               "displayName": "linkedIn",
-              "url": "linkedIn",
+              "url": "https://www.linkedin.com/company/fact-finders-pro",
               "type": "linkedIn"
             }
           ],
-          "links": []
+          "links": [
+            {
+              "displayName": "Email",
+              "url": "mailto:FactFindersPro@gmail.com"
+            },
+            {
+              "displayName": "Privacy",
+              "url": "/privacy-policy"
+            }
+          ]
         },
         "content": [
           {
@@ -137,7 +138,7 @@
             "imageUrl2": null,
             "imageUrl3": null,
             "buttonName1": "Join Our Waitlist",
-            "buttonLinkUrl1": "/join",
+            "buttonLinkUrl1": "https://forms.gle/94cpcwhDY1ED2ND89",
             "youTubeVideoId": "",
             "socialMedia": [],
             "showTitle": true,
@@ -197,7 +198,7 @@
               },
               {
                 "title": null,
-                "content": "By using machine learning and AI algorithms continue to adapt to new disinformation tactics and improve your system's accuracy over time",
+                "content": "By using machine learning and AI algorithms continue to adapt and improve system's accuracy over time",
                 "imageUrl1": "kf-5.png"
               },
               {
@@ -236,21 +237,30 @@
           "socialMedia": [
             {
               "displayName": "twitter",
-              "url": "twitter",
+              "url": "https://twitter.com/factfinderspro",
               "type": "twitter"
             },
             {
               "displayName": "instagram",
-              "url": "instagram",
+              "url": "https://www.instagram.com/factfinderspro/",
               "type": "instagram"
             },
             {
               "displayName": "linkedIn",
-              "url": "linkedIn",
+              "url": "https://www.linkedin.com/company/fact-finders-pro",
               "type": "linkedIn"
             }
           ],
-          "links": []
+          "links": [
+            {
+              "displayName": "Email",
+              "url": "mailto:FactFindersPro@gmail.com"
+            },
+            {
+              "displayName": "Privacy",
+              "url": "/privacy-policy"
+            }
+          ]
         },
         "content": [
           {
@@ -281,7 +291,7 @@
             "content": "We are looking for passionate individuals who share our commitment to fighting disinformation and want to be part of a dynamic team making a difference. Join us in this crucial mission to restore trust in information and shape the future of our digital landscape.",
             "imageUrl1": "JoinTeam.png",
             "buttonName1": "Join Our Team",
-            "buttonLinkUrl1": "/join",
+            "buttonLinkUrl1": "https://forms.gle/QaqMFwHrqKZYw3jC6",
             "youTubeVideoId": "",
             "socialMedia": [],
             "showTitle": true,
@@ -379,13 +389,42 @@
         "pageTitle": "Join",
         "pageSubtitle": null,
         "pageRoute": "/join",
+        "footer": {
+          "socialMedia": [
+            {
+              "displayName": "twitter",
+              "url": "https://twitter.com/factfinderspro",
+              "type": "twitter"
+            },
+            {
+              "displayName": "instagram",
+              "url": "https://www.instagram.com/factfinderspro/",
+              "type": "instagram"
+            },
+            {
+              "displayName": "linkedIn",
+              "url": "https://www.linkedin.com/company/fact-finders-pro",
+              "type": "linkedIn"
+            }
+          ],
+          "links": [
+            {
+              "displayName": "Email",
+              "url": "mailto:FactFindersPro@gmail.com"
+            },
+            {
+              "displayName": "Privacy",
+              "url": "/privacy-policy"
+            }
+          ]
+        },
         "content": [
           {
             "contentType": "split",
             "socialMedia": [
               {
                 "displayName": "twitter",
-                "url": "twitter",
+                "url": "https://twitter.com/factfinderspro",
                 "type": "twitter"
               }
             ],
@@ -399,7 +438,7 @@
                 "imageUrl2": null,
                 "imageUrl3": null,
                 "buttonName1": "Learn More",
-                "buttonLinkUrl1": "/learn-more"
+                "buttonLinkUrl1": "https://forms.gle/QaqMFwHrqKZYw3jC6"
               },
               {
                 "title": "Support Our Crowdfunding Campaign",
@@ -416,6 +455,333 @@
           }
         ]
       }
+    },
+    {
+      "type": "api::page.page",
+      "id": 4,
+      "attributes": {
+        "pageTitle": "Privacy Policy",
+        "pageSubtitle": null,
+        "pageRoute": "/privacy-policy",
+        "footer": {
+          "socialMedia": [
+            {
+              "displayName": "twitter",
+              "url": "https://twitter.com/factfinderspro",
+              "type": "twitter"
+            },
+            {
+              "displayName": "instagram",
+              "url": "https://www.instagram.com/factfinderspro/",
+              "type": "instagram"
+            },
+            {
+              "displayName": "linkedIn",
+              "url": "https://www.linkedin.com/company/fact-finders-pro",
+              "type": "linkedIn"
+            }
+          ],
+          "links": [
+            {
+              "displayName": "Email",
+              "url": "mailto:FactFindersPro@gmail.com"
+            },
+            {
+              "displayName": "Privacy",
+              "url": "/privacy-policy"
+            }
+          ]
+        },
+        "content": [
+          {
+            "contentType": "content-only",
+            "title": "Privacy Policy for FactsFindersPro",
+            "subTitle": "Last Updated: Nov 8th, 2023",
+            "content": "At FactsFindersPro, we take your privacy seriously and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and protect your personal data when you visit our website, FactsFindersPro.com, and use our services to identify fake news and its sources. By using our website and services, you agree to the terms outlined in this Privacy Policy. Please read this policy carefully and contact us if you have any questions.",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "primary",
+            "textColor": "white",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": "1. Information We Collect",
+            "subTitle": null,
+            "content": "1.1. Personal Information",
+            "subContent1": "We may collect personal information that you provide voluntarily when using our website and services. This information may include, but is not limited to, your name, email address, and any other information you choose to share with us.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "1.2. Non-Personal Information",
+            "subContent1": "We may also collect non-personal information, such as your IP address, browser type, and operating system, as you interact with our website and services. This information is collected for analytical and statistical purposes and does not identify you personally.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },          
+          {
+            "contentType": "content-only",
+            "title": "2. How We Use Your Information",
+            "subTitle": null,
+            "content": "2.1. Providing Our Services",
+            "subContent1": "We use the personal information you provide to deliver our services, including identifying fake news and its sources.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "2.2. Improving Our Services",
+            "subContent1": "We may analyze non-personal information to improve the functionality and user experience of our website and services. This may include enhancing our algorithms and models.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "2.3. Communication",
+            "subContent1": "With your consent, we may send you newsletters, updates, and other informational content related to our services. You can opt out of receiving these communications at any time.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": "3. Disclosure of Your Information",
+            "subTitle": null,
+            "content": "3.1. Third-Party Service Providers",
+            "subContent1": "We may share your information with trusted third-party service providers who assist us in delivering our services, maintaining our website, or performing other essential functions. These providers are obligated to protect your information and use it only for the purposes we specify.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "3.2. Legal Requirements",
+            "subContent1": "We may disclose your information if required by law or in response to a valid request by a government authority. We may also disclose your information to protect our rights, privacy, safety, or the rights, privacy, or safety of others.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": "4. Data Security",
+            "subTitle": null,
+            "content": "We take reasonable precautions to protect your personal information. However, no method of data transmission or storage is completely secure, and we cannot guarantee the security of your data. By using our website and services, you acknowledge the inherent risks associated with data transmission over the internet.",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": "5. Your Choices",
+            "subTitle": null,
+            "content": "5.1. Access and Update",
+            "subContent1": "You have the right to access and update your personal information. If you would like to review or modify the information we hold about you, please contact us using the information provided below.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "5.2. Opt-Out",
+            "subContent1": "You can opt out of receiving our promotional communications at any time by following the instructions provided in the email or contacting us directly.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": "6. Changes to this Privacy Policy",
+            "subTitle": null,
+            "content": "We may update this Privacy Policy from time to time to reflect changes in our practices or for legal reasons. We will notify you of any significant changes through our website or other communication channels.",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+
+          
+          
+
+
+          {
+            "contentType": "content-only",
+            "title": "7. Contact Us",
+            "subTitle": null,
+            "content": "If you have questions, concerns, or requests related to your privacy or this Privacy Policy, please contact us at:",
+            "subContent1": "Email: FactFindersPro@gmail.com",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "Please note that this Privacy Policy applies only to our website and services and does not cover any third-party websites or services you may access through links on our website. We recommend reviewing the privacy policies of these third parties for their terms and practices.",
+            "subContent1": "Thank you for choosing FactsFindersPro. We are committed to protecting your privacy while helping you identify and combat fake news.",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "primary",
+            "textColor": "white",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          }
+        ]
+      }
     }
   ]
 }
+
+
