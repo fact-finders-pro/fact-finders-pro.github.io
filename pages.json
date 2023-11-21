@@ -47,7 +47,7 @@
             "imageUrl2": null,
             "imageUrl3": null,
             "buttonName1": "Donate",
-            "buttonLinkUrl1": "https://www.gofundme.com/f/join-us-in-the-fight-against-disinformation/widget/small",
+            "buttonLinkUrl1": "https://www.gofundme.com/f/join-us-in-the-fight-against-disinformation?utm_campaign=p_cp+share-sheet&utm_medium=referral&utm_source=widget",
             "youTubeVideoId": "e4Esw3cAuxg",
             "socialMedia": []
           },
@@ -378,6 +378,159 @@
             "buttonColor": "secondary",
             "buttonTextColor": "white",
             "linkedIn": "https://www.linkedin.com/in/nklansek/"
+          }
+        ]
+      }
+    },
+    {
+      "type": "api::page.page",
+      "id": 3,
+      "attributes": {
+        "pageTitle": "Crowd Funding",
+        "pageSubtitle": null,
+        "pageRoute": "/crowd-funding",
+        "footer": {
+          "socialMedia": [
+            {
+              "displayName": "twitter",
+              "url": "https://twitter.com/factfinderspro",
+              "type": "twitter"
+            },
+            {
+              "displayName": "instagram",
+              "url": "https://www.instagram.com/factfinderspro/",
+              "type": "instagram"
+            },
+            {
+              "displayName": "linkedIn",
+              "url": "https://www.linkedin.com/company/fact-finders-pro",
+              "type": "linkedIn"
+            }
+          ],
+          "links": [
+            {
+              "displayName": "Email",
+              "url": "mailto:FactFindersPro@gmail.com"
+            },
+            {
+              "displayName": "Privacy",
+              "url": "/privacy-policy"
+            }
+          ]
+        },
+        "content": [
+          {
+            "contentType": "content-only",
+            "title": "Join Us in the Fight Against Disinformation!",
+            "subTitle": null,
+            "content": "At Fact Finders Pro, we're on a mission to tackle one of the most pressing challenges of our time: disinformation. In an era where the spread of false information threatens our democracy, public safety, and informed decision-making we’re developing a game-changing solution and we need your help.",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": "DONATE US",
+            "buttonLinkUrl1": "https://www.gofundme.com/f/join-us-in-the-fight-against-disinformation?utm_campaign=p_cp+share-sheet&utm_medium=referral&utm_source=widget",
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "primary",
+            "textColor": "white",
+            "buttonColor": "error",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "cards",
+            "socialMedia": [],
+            "cardContents": [
+              {
+                "title": "Why it Matters?",
+                "content": "Disinformation undermines trust in media, institutions, and even among individuals. It poses a grave threat to our society and the values we hold dear. But we believe there's a better way.",
+                "bgColor": "neutral",
+                "border": "border",
+                "borderColor": "secondary"
+              },
+              {
+                "title": "Our Solution",
+                "content": "We're building an innovative disinformation app that leverages cutting-edge technology, artificial intelligence, and community engagement to detect and combat false information in real-time. Our platform will empower individuals, organizations, and communities to make well-informed decisions based on accurate, reliable, and unbiased information.",
+                "bgColor": "neutral",
+                "border": "border",
+                "borderColor": "secondary"
+
+              }
+            ]
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "<img src='/images/crowfunding-graph.png' alt='crowfunding graph' />",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": false,
+            "bgColor": "white",
+            "textColor": "white",
+            "buttonColor": "error",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "cards",
+            "socialMedia": [],
+            "cardContents": [
+              {
+                "title": "How You Can Help:",
+                "content": "We're turning to crowdfunding to make our vision a reality. Your support will enable us to expedite development, enhance our app's features, and expand our reach to combat disinformation on a global scale. By backing our campaign, you're taking a stand against the erosion of trust in information.",
+                "border": "border"
+              },
+              {
+                "title": "Join the Movement:",
+                "content": "We invite you to be part of a community committed to truth, accuracy, and accountability. Your contribution, no matter the size, can make a significant difference in the battle against disinformation. Together, we can restore trust in information and protect the values that matter most.",
+                "border": "border"
+              }
+            ]
+          },
+          {
+            "contentType": "cards",
+            "socialMedia": [],
+            "cardContents": [
+              {
+                "title": "Spread the Word:",
+                "content": "Even if you can't contribute financially, you can still help by spreading the word about our campaign. Share it with your friends, family, and on social media. Every share brings us one step closer to our goal.",
+                "border": "border"
+              },
+              {
+                "title": "What You'll Get:",
+                "content": "As a supporter, you'll be among the first to access our app when it's launched. We also offer exciting rewards and perks for different support levels, including exclusive updates, early access, and more.",
+                "border": "border"
+              }
+            ]
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "Join us in the fight against disinformation today. Together, we can make a real impact and create a more informed, educated, and resilient society.",
+            "subContent1": "<h2 style='color:#088395; text-align:center'>Thank you for your support!</h2>",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": null,
+            "buttonTextColor": "white"
           }
         ]
       }
