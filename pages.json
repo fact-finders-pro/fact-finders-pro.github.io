@@ -57,6 +57,7 @@
             "listContent": [
               {
                 "title": "Our Product",
+<<<<<<< HEAD
                 "content": "envision a world where information is trustworthy, transparent, and empowering for all. We are committed to combating disinformation to safeguard the integrity of information channels and promote informed, responsible decision-making."
               },
               {
@@ -66,6 +67,17 @@
               {
                 "title": "Our Solution",
                 "content": "will provide cutting-edge technology for real-time fact-checking, content verification, a collaborative approach to identitying and countering disInformation and Torensic analysis to expose the sources of disinformation. We aim to foster critical thinking, media literacy, and an ecosystem of trust."
+=======
+                "content": "envision a world where information is **<span style='color:#071952'>trustworthy</span>**, **<span style='color:#071952'>transparent</span>**, and **<span style='color:#071952'>empowering</span>** for all. We are committed to combating disinformation to safeguard the **<span style='color:#071952'>integrity of information channels</span>** and **<span style='color:#071952'>promote informed, responsible decision-making</span>**."
+              },
+              {
+                "title": "Our Vision",
+                "content": "is to be the leading platform that **<span style='color:#071952'>empowers individuals, communities,</span>** and **<span style='color:#071952'>organizations</span>** with the tools and knowledge needed to discern truth from falsehood. We believe in creating a more **<span style='color:#071952'>reliable</span>** and **<span style='color:#071952'>connected digital landscape</span>** where every user can confidently navigate the sea of intormation without being misled or manipulated"
+              },
+              {
+                "title": "Our Solution",
+                "content": "will provide cutting-edge technology for **<span style='color:#071952'>real-time fact-checking, content verification,</span>** a collaborative approach to **<span style='color:#071952'>identitying</span>** and **<span style='color:#071952'>countering disInformation</span>** and **<span style='color:#071952'>forensic analysis</span>** to expose the sources of disinformation. We aim to foster **<span style='color:#071952'>critical thinking, media literacy,</span>** and an **<span style='color:#071952'>ecosystem of trust.</span>**"
+>>>>>>> 032637a7eb8ee76c9576a9fe29a3cdbeba294540
               }
             ]
           },
@@ -423,7 +435,11 @@
             "contentType": "content-only",
             "title": "Join Us in the Fight Against Disinformation!",
             "subTitle": null,
+<<<<<<< HEAD
             "content": "At Fact Finders Pro, we're on a mission to tackle one of the most pressing challenges of our time: disinformation. In an era where the spread of false information threatens our democracy, public safety, and informed decision-making we’re developing a game-changing solution and we need your help.",
+=======
+            "content": "At Fact Finders Pro, we're on a mission to tackle one of the most pressing challenges of our time: disinformation. In an era where the spread of false information threatens our democracy, public safety, and informed decision-making we're developing a game-changing solution and we need your help.",
+>>>>>>> 032637a7eb8ee76c9576a9fe29a3cdbeba294540
             "subContent1": null,
             "backgroundImageUrl": null,
             "imageUrl1": null,
